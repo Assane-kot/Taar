@@ -7,6 +7,4 @@ data class Model(
     var categorie: String,
     var imageUri: String,
     var commentaires: List<Commentaire>
-) {
-
-}
+)

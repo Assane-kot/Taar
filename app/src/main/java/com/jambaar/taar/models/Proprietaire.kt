@@ -9,6 +9,4 @@ data class Proprietaire(
     var telephone: String,
     var email: String,
     var commande: List<CommandeTailleur>
-) {
-
-}
+)

@@ -7,6 +7,4 @@ data class Commentaire(
     var note: String,
     var like: Int,
     var imageUri: String
-) {
-
-}
+)

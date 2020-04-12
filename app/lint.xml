@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="UnusedResources">
+        <ignore path="src/main/res/drawable-v24/chaussures.png" />
+        <ignore path="src/main/res/drawable-v24/model_coiffure.png" />
+        <ignore path="src/main/res/drawable-v24/model_coiffure.png" />
+        <ignore path="src/main/res/drawable-v24/model_tailleur.png" />
+        <ignore path="src/main/res/drawable-v24/model_tailleur.png" />
+        <ignore path="src/main/res/drawable-v24/pret_a_porter.png" />
+        <ignore path="src/main/res/drawable-v24/sac.png" />
+        <ignore path="src/main/res/drawable-v24/tissus.png" />
+    </issue>
+</lint>

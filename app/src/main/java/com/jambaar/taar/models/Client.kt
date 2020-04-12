@@ -9,6 +9,4 @@ data class Client(
     var email: String,
     var favoris: List<String>,
     var commandes: List<CommandeTailleur>
-) {
-
-}
+)

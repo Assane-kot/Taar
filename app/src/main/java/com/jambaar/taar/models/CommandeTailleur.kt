@@ -11,6 +11,4 @@ data class CommandeTailleur(
     var nomTissu: String,
     var nomModel: String,
     var mesures: HashMap<String, Double>
-) {
-
-}
+)
