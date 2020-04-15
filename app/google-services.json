@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "887254188892",
+    "firebase_url": "https://taar-7910b.firebaseio.com",
+    "project_id": "taar-7910b",
+    "storage_bucket": "taar-7910b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887254188892:android:e12ac4498880c8181a3799",
+        "android_client_info": {
+          "package_name": "com.jambaar.taar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887254188892-sju8t38u4lkdtselbk9ku5o6edbdj8ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmGzVxYV3woYZRMJ7qlBZ3m9uinpFzNCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887254188892-sju8t38u4lkdtselbk9ku5o6edbdj8ms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
